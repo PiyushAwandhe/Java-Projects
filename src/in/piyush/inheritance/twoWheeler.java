@@ -1,8 +1,8 @@
 package in.piyush.inheritance;
 
-public class twoWheeler extends Vehicle {
+public class twoWheeler extends Vehicle{
     twoWheeler(){
-        noOfWheels = 2;
+        setNoOfWheels(2);
     }
 
 
